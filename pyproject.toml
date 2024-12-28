@@ -1,0 +1,7 @@
+[project]
+name = "genesis-target-video"
+version = "0.1.0"
+description = "Genesis target-video component"
+dependencies = [
+    "genesis-base",
+]
